@@ -8,4 +8,5 @@
 - Generating the bill as well as checking the Customer's payment status.
 
 ## Class Diagrams:-
+!['Class Diagram'](https://github.com/PrasadMutnale-exe/CarDecorApplication/blob/master/class_diagram.jpg).
 
