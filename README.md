@@ -1,4 +1,4 @@
-# CarDecorApplication🚗
+# Car Decor Application🚗
 ## Overview of the Problem Statement:-
 <p>Implement a Car Decor application in which the Car company has Manager Customers and Workers classes. Customers choose color and gradient to modifies the manager assigns the car and the worker to modify the car. After modifying the customer's car, the manager has to generate the bill and check the customer's payment status.</p>
 
